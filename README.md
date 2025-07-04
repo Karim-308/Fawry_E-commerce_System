@@ -63,23 +63,18 @@ Customer balance after payment: -4290
 > ![Normal Checkout](images/normal_checkout.png)
 
 ### 2. Out of Stock
-> _Screenshot here:_
 > ![Out of Stock](images/out_of_stock.png)
 
 ### 3. Expired Product
-> _Screenshot here:_
 > ![Expired Product](images/expired_product.png)
 
 ### 4. Insufficient Balance
-> _Screenshot here:_
 > ![Insufficient Balance](images/insufficient_balance.png)
 
 ### 5. Only Non-Shippable Products
-> _Screenshot here:_
 > ![Non-Shippable](images/non_shippable.png)
 
 ### 6. Empty Cart
-> _Screenshot here:_
 > ![Empty Cart](images/empty_cart.png)
 
 ---
