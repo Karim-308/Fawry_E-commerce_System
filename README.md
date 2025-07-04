@@ -57,7 +57,6 @@ Customer balance after payment: -4290
 ```
 
 ## Example Scenarios & Screenshots
-Below are key scenarios you can run and screenshot for your submission. Add your screenshots below each scenario:
 
 ### 1. Normal Checkout (with valid products and enough balance)
 > _Screenshot here:_
