@@ -59,7 +59,6 @@ Customer balance after payment: -4290
 ## Example Scenarios & Screenshots
 
 ### 1. Normal Checkout (with valid products and enough balance)
-> _Screenshot here:_
 > ![Normal Checkout](images/normal_checkout.png)
 
 ### 2. Out of Stock
